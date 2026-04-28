@@ -17,7 +17,8 @@ records to identify loan default risk patterns.
 - Debt Consolidation = highest volume loan purpose
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+<img width="1119" height="635" alt="Screenshot 2026-04-28 163013" src="https://github.com/user-attachments/assets/dacbd233-c30a-44cd-8c4e-01077e87240a" />
+
 
 ## Project Structure
 | File | Description |
